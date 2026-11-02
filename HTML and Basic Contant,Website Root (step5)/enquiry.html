@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="fashion product enquiry, clothing sizes, product availability, fashion store Limpopo">
+<meta name="author" content="Ethey’s Fashion Feaster academic project">
+<meta name="theme-color" content="#171717">
+<meta name="description" content="Ask about fashion products, sizes, availability, sponsorship or customer support. Complete the enquiry form for an instant helpful response.">
+<title>Product Enquiry | Ethey’s Fashion Feaster</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to content</a>
+<header>
+ <div class="container navbar">
+  <a class="brand" href="index.html" aria-label="Ethey's Fashion Feaster home"><img src="images/logo.svg" alt="Ethey's Fashion Feaster logo"></a>
+  <nav aria-label="Main navigation"><ul class="nav-links"><li><a class="" href="index.html">Home</a></li><li><a class="" href="about.html">About Us</a></li><li><a class="" href="products.html">Products</a></li><li><a class="active" href="enquiry.html">Enquiry</a></li><li><a class="" href="contact.html">Contact</a></li><li><a href="sitemap.html">Sitemap</a></li></ul></nav>
+ </div>
+</header>
+
+<main id="main">
+<section class="page-hero"><div class="container"><div class="eyebrow">We would love to hear from you</div><h1>Enquiry</h1><p class="lead">Ask about a product, size, availability or general information.</p></div></section>
+<section class="section"><div class="container enquiry-layout">
+ <div class="form-card">
+  <h2>Enquiry Form</h2>
+  <form id="enquiry-form" action="mailto:info@etheysfashion.co.za" method="post" enctype="text/plain" novalidate>
+   <div class="form-group"><label for="name">Full Name</label><input id="name" name="Full Name" type="text" placeholder="Your full name" required></div>
+   <div class="form-group"><label for="email">Email Address</label><input id="email" name="Email" type="email" placeholder="Your email" required></div>
+   <div class="form-group"><label for="phone">Phone Number</label><input id="phone" name="Phone" type="tel" placeholder="e.g. 0821234567" pattern="[0-9+()\s-]{7,20}" aria-describedby="phone-help"><small id="phone-help" class="field-help">Use 7–20 digits or phone symbols.</small></div>
+   <div class="form-group"><label for="type">Enquiry Type</label><select id="type" name="Enquiry Type" required><option value="">-- Select --</option><option>Product information</option><option>Size or availability</option><option>General enquiry</option><option>Customer support</option></select></div>
+   <div class="form-group"><label for="message">Message</label><textarea id="message" name="Message" placeholder="Type your message here..." required></textarea></div>
+   <button class="btn" type="submit">Check and Send Enquiry</button>
+   <div id="enquiry-feedback" class="form-feedback" role="status" aria-live="polite"></div>
+   <p class="form-note">This static HTML prototype uses your email client to prepare the enquiry. A production website would connect the form to a secure server-side service.</p>
+  </form>
+ </div>
+ <div class="info-card"><img class="feature-img" style="min-height:0;height:360px" src="images/enquiry-fashion.jpg" alt="Customer support representative ready to assist with a fashion enquiry"><h3 style="margin-top:1rem">Customer Support</h3><p>For this academic prototype, enquiries are handled through the form. The layout is designed to make customer communication clear and accessible.</p></div>
+</div></section>
+</main>
+
+<footer>
+ <div class="container footer-grid">
+  <div><h3>Ethey's Fashion Feaster</h3><p class="small" style="color:#bbb">Fashion for the whole family, designed with you in mind.</p></div>
+  <div><h3>Explore</h3><p><a href="index.html">Home</a></p><p><a href="about.html">About Us</a></p><p><a href="products.html">Products</a></p></div>
+  <div><h3>Quick Links</h3><p><a href="enquiry.html">Enquiry</a></p><p><a href="contact.html">Contact</a></p><p><a href="sitemap.html">Sitemap</a></p></div>
+  <div><h3>Contact</h3><p class="small" style="color:#bbb">Polokwane &amp; Makhado, Limpopo</p><p><a href="mailto:info@etheysfashion.co.za">info@etheysfashion.co.za</a></p></div>
+ </div>
+ <div class="container footer-bottom">© 2026 Ethey's Fashion Feaster. All rights reserved. | Academic website project</div>
+</footer>
+
+<script src="js/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+# Part 2 Changelog — Ethey's Fashion Feaster
+
+## Purpose
+This changelog records the development work completed for Part 2, including corrections made in response to the Part 1 feedback and improvements required by the supplied Part 2 rubric.
+
+## Part 1 feedback changes
+
+### 1. Improved HTML structure
+- Kept the website divided into six clearly named HTML pages: Home, About Us, Products, Enquiry, Contact and Sitemap.
+- Used semantic elements such as `header`, `nav`, `main`, `section`, `article` and `footer`.
+- Added descriptive page titles and meta descriptions.
+- Added accessible navigation labels, image alternative text and a skip-to-content link.
+
+### 2. Fixed page navigation
+- Standardised all internal links to local relative `.html` paths.
+- Added the Sitemap to the shared navigation.
+- Kept shared navigation and footer links consistent across all six pages.
+- Checked that navigation targets correspond to files that exist in the `website/` folder.
+
+### 3. Fixed image paths
+- Moved the supplied `enquiry-fashion.jpg` into `website/images/` so the Enquiry page loads it from the correct relative path.
+- Moved the hero image into `website/images/` so the CSS background path is consistent.
+- Replaced the broken Contact-page image reference with a local project image (`contact-store.jpg`).
+- Added local image variants for responsive display.
+
+## Part 2 CSS and responsive-design changes
+
+### 4. External stylesheet
+- All six HTML pages link to the single external stylesheet: `website/css/style.css`.
+- Removed presentation styles that were previously written directly inside HTML elements and replaced them with reusable CSS classes.
+
+### 5. Base/default styling
+- Added/reset box sizing, margins and padding.
+- Established a consistent font stack, text colour, line height and page background.
+- Added reusable CSS custom properties for the colour palette, shadows and maximum content width.
+
+### 6. Typography
+- Added responsive heading sizes with `clamp()`.
+- Applied font weights, line heights, letter spacing and readable body sizing.
+- Adjusted typography at mobile breakpoints.
+
+### 7. Layout
+- Used CSS Grid for product cards, trust features, values, contact locations and footer columns.
+- Used Flexbox for navigation and button groups.
+- Added responsive single-column layouts for smaller screens.
+
+### 8. Visual styling and pseudo-classes
+- Applied the black, gold, cream and white visual system used by Ethey's Fashion Feaster.
+- Added borders, shadows, rounded corners and button styling.
+- Added `:hover`, `:focus` and active navigation styling.
+
+### 9. Responsive design
+- Added 900px and 620px media-query breakpoints.
+- Adjusted navigation, grids, typography, spacing and image presentation for smaller screens.
+- Added responsive image `srcset`/`sizes` attributes and a `<picture>` element to demonstrate the rubric's responsive-image techniques.
+
+### 10. Documentation
+- Expanded `README.md` with project structure, design system, testing information, changelog location, references and GitHub guidance.
+- Added this detailed changelog.
+- Kept the existing image/asset source log and clarified the supplied enquiry image.
+
+## Suggested GitHub commit sequence
+These messages are descriptive examples for the repository history:
+1. `Improve HTML structure and accessibility`
+2. `Add external CSS styling for all pages`
+3. `Implement responsive layout and navigation`
+4. `Fix local image paths and add responsive images`
+5. `Update README changelog and references`

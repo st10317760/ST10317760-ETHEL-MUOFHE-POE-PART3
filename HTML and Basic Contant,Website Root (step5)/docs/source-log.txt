@@ -1,0 +1,8 @@
+# Image and Asset Source Log
+
+1. `enquiry-fashion.jpg` — supplied by the student in the project conversation and used on the Enquiry page. The file is stored locally in `website/images/`.
+2. `hero-fashion.jpg`, `about-store.jpg`, `women.jpg`, `men.jpg`, and `children.jpg` — local project image assets supplied/used for the Ethey's Fashion Feaster academic website.
+3. `contact-store.jpg` — local copy of the existing `about-store.jpg` project asset used to replace the previously missing Contact-page image reference.
+4. `*-450.jpg` and `*-900.jpg` — locally generated responsive-size variants of the project images for the Part 2 responsive-image requirement.
+5. `logo.svg` — original project logo mark created for this website.
+6. `homepage-wireframe.svg` and `sitemap.svg` — original project planning diagrams created for the website structure.

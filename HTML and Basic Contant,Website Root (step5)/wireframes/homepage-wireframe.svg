@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720">
+<rect width="1200" height="720" fill="#fff"/>
+<style>text{font-family:Arial,sans-serif}.box{fill:#fbf8f0;stroke:#101010;stroke-width:2}.gold{fill:#d6a900;stroke:#101010;stroke-width:2}</style>
+<text x="600" y="45" text-anchor="middle" font-size="30" font-weight="700">Low-Fidelity Homepage Wireframe</text>
+<rect class="box" x="60" y="75" width="1080" height="65"/><text x="90" y="115" font-size="22" font-weight="700">LOGO / Ethey's Fashion Feaster</text><text x="800" y="115" font-size="18">HOME | ABOUT | PRODUCTS | ENQUIRY | CONTACT</text>
+<rect class="box" x="60" y="165" width="1080" height="190"/><text x="600" y="225" text-anchor="middle" font-size="30" font-weight="700">HERO IMAGE</text><text x="600" y="265" text-anchor="middle" font-size="20">Fashion message + call-to-action buttons</text>
+<rect class="box" x="60" y="380" width="250" height="110"/><rect class="box" x="335" y="380" width="250" height="110"/><rect class="box" x="610" y="380" width="250" height="110"/><rect class="box" x="885" y="380" width="255" height="110"/>
+<g font-size="18" font-weight="700" text-anchor="middle"><text x="185" y="425">QUALITY</text><text x="460" y="425">TRENDY</text><text x="735" y="425">AFFORDABLE</text><text x="1010" y="425">SUPPORT</text></g>
+<rect class="gold" x="60" y="520" width="1080" height="125"/><text x="600" y="570" text-anchor="middle" font-size="25" font-weight="700">ABOUT / OUR STORY + IMAGE</text><text x="600" y="610" text-anchor="middle" font-size="18">Brief introduction and Learn More link</text>
+</svg>
