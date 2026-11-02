@@ -1,0 +1,137 @@
+ETHEYS FASHION FEASTER
+STEP 3 AND 4 – CONTENT RESEARCH AND SOURCING
+
+1. PROJECT OVERVIEW
+Etheys Fashion Feaster is a proposed fashion retail brand that will use a professional website to present clothing and fashion products to customers. The website will provide information about the business, display products, provide a visual gallery, and make it easy for customers to contact the business.
+
+2. RESEARCH PURPOSE
+The research was conducted to identify the content and website features needed for a modern fashion website. The research focused on:
+- Website usability and clear navigation.
+- Responsive design for phones, tablets, and computers.
+- Product presentation.
+- Accessible and readable web content.
+- Appropriate use of HTML, CSS, and JavaScript.
+- Organised website structure and content.
+- Image sourcing and attribution.
+
+3. TARGET AUDIENCE
+The primary audience is fashion-conscious customers, particularly students, young adults, and working adults seeking attractive, affordable clothing. The website is designed for visitors who want to browse products quickly, read useful information, and contact the business.
+
+4. CONTENT REQUIREMENTS
+The website requires:
+- Business name and branding.
+- Home page introduction.
+- About Us information.
+- Mission and vision.
+- Product names and descriptions.
+- Product prices where applicable.
+- Gallery content.
+- Contact information.
+- Calls-to-action.
+- Navigation labels.
+- Footer information.
+
+5. WEBSITE CONTENT PLAN
+
+HOME PAGE
+Headline: Discover Your Style with Etheys Fashion Feaster.
+Purpose: Introduce the brand and direct visitors to products.
+
+ABOUT PAGE
+Etheys Fashion Feaster is a fashion-focused business concept committed to presenting stylish, accessible, and customer-focused fashion. The website supports the business by giving customers a convenient place to learn about the brand and explore products.
+
+Mission:
+To provide customers with a convenient and enjoyable way to discover fashionable clothing through a professional digital platform.
+
+Vision:
+To build a trusted fashion brand with a strong digital presence and a customer-focused shopping experience.
+
+PRODUCTS PAGE
+Products will be presented in cards containing:
+- Product image.
+- Product name.
+- Short description.
+- Price where applicable.
+- Product category.
+
+Suggested product categories:
+- Dresses.
+- Tops.
+- Bottoms.
+- Sets.
+- Accessories.
+
+GALLERY PAGE
+The gallery will display approved fashion photographs supplied by the student/business. Images should be relevant, clear and suitable for the website.
+
+CONTACT PAGE
+The contact page will include:
+- Customer name.
+- Email address.
+- Message.
+- Contact button.
+- Business contact details.
+
+6. IMAGE SOURCING PLAN
+Images should be supplied by the business/student or obtained from sources that permit the intended use. Images must be stored in the website's images folder and uploaded to GitHub with the website files. Where an external source requires attribution, the source should be recorded in the image credits document.
+
+IMPORTANT:
+Images are intentionally NOT included in this ZIP. The student should upload the final approved images to:
+3. HTML and Basic Content, Website Root/images/
+and then commit/push them to GitHub.
+
+7. ACCESSIBILITY AND USABILITY RESEARCH
+The website will use meaningful page titles, semantic HTML, readable text, visible focus states, descriptive alternative text for images, and clear form labels. W3C identifies accessibility as an important part of web development, and WCAG provides guidance for accessible web content.
+
+8. RESPONSIVE DESIGN RESEARCH
+The website will use a responsive approach so that content adapts to different screen sizes. CSS media queries and flexible layouts will be used. The HTML pages will include the viewport meta tag so mobile browsers render the page appropriately.
+
+9. TECHNOLOGY RESEARCH
+HTML5 will provide the structure and semantic content.
+CSS3 will control layout, typography, spacing, navigation, and responsive behavior.
+JavaScript will provide appropriate interaction and client-side form validation.
+
+10. CONTENT SOURCES
+Primary technical sources:
+- MDN Web Docs – Responsive Web Design and Media Queries.
+- W3C Web Accessibility Initiative – Accessibility Standards.
+- W3C Web Content Accessibility Guidelines (WCAG).
+
+Project-specific content:
+- Etheys Fashion Feaster business/project concept.
+- Student-created product descriptions and business content.
+- Student/business-supplied product photographs.
+
+11. SOURCE LINKS
+MDN Responsive Web Design:
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design
+
+MDN Media Queries:
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries
+
+W3C Accessibility Standards:
+https://www.w3.org/WAI/standards-guidelines/
+
+WCAG 2.1:
+https://www.w3.org/TR/WCAG21/
+
+12. QUALITY CONTROL
+Before submission:
+- Proofread all text.
+- Confirm product information is accurate.
+- Confirm every image has appropriate alternative text.
+- Confirm image filenames match the HTML.
+- Confirm all navigation links work.
+- Test the site on desktop and mobile widths.
+- Confirm the GitHub repository contains the same files as the final website folder.
+
+13. STEP 3 AND 4 COMPLETION EVIDENCE
+The folder contains:
+- Research and Contents document.
+- Website content plan.
+- Source information.
+- Image sourcing instructions.
+- Website root with the initial HTML files.
+- CSS stylesheet.
+- JavaScript file.
+- Images folder ready for the student's approved images.
