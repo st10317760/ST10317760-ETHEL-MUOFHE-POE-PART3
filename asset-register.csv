@@ -1,0 +1,11 @@
+Asset,Type,Use,Source/Status,Licence/Use Note
+hero.jpg,Image,Homepage hero,AI-generated project asset,Created for academic prototype
+about.jpg,Image,About/Home,AI-generated project asset,Created for academic prototype
+women.jpg,Image,Products,AI-generated project asset,Created for academic prototype
+men.jpg,Image,Products,AI-generated project asset,Created for academic prototype
+children.jpg,Image,Products,AI-generated project asset,Created for academic prototype
+enquiry.jpg,Image,Enquiry,AI-generated project asset,Created for academic prototype
+contact.jpg,Image,Contact,AI-generated project asset,Created for academic prototype
+community.jpg,Image,Proposal 2,AI-generated project asset,Created for academic prototype
+proposed-location-map.png,Diagram,Contact page,Original academic diagram,Created for academic prototype
+Poppins,Font,Headings,Google Fonts,Web font reference documented in README
